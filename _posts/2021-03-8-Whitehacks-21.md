@@ -133,8 +133,7 @@ An attacker is in our system and has left a note behind. Can you find the link i
 
     ```
     sean@ubuntu:~/Desktop/volatility$ ./vol.py -f ../../memdump.mem --profile=Win7SP1x64 cmdline
-    Volatility Foundation Volatility Framework 2.6.1
-    
+    Volatility Foundation Volatility Framework 2.6.1    
     ... ...
     
     ************************************************************************
