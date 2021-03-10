@@ -39,7 +39,7 @@ I played this CTF with [Ariana](https://ariana1729.github.io/) and [River](http:
 * He vlogs, and he has tiktok. So this means the video is on Tiktok
 * Now the next step is something i severely regret doing and till this day still gives me PTSD. Tiktok is not for everyone, consult a doctor to find out if its suitable for you. In my case, it really is not suitable. Im still suffering the trauma and stress from this Tiktok browsing experience. Pls send help to me. (DO NOT TRY THIS AT HOME KIDS) Please kids, TikTok is horrible and is not meant. Stop getting infected by the TikTok virus. Uncle Roger "HAIYAAAAAAAAAAAAAAAAAAAAA" at all the tiktok users. 
 * Anyways......... (eye cancer warning)
-* ![](https://imgur.com/a/rm8tVYK)
+* ![](https://i.imgur.com/vB8UEXy.jpeg)
 
 `Flag: WH2021{Ch0c0_L4V4_1s_b3$t}` (again, im still traumatised by this tiktok experience. send help pls)
 
@@ -60,7 +60,7 @@ I played this CTF with [Ariana](https://ariana1729.github.io/) and [River](http:
 
 * As such our final location is The Bencoolen
 
-  ![](https://imgur.com/a/XJOX8hI)
+  ![](https://i.imgur.com/YRqYJeC.jpg)
 
 `Flag: WH2021{189646}`
 
@@ -225,7 +225,7 @@ Lets take a step back and look at what we have so far. We know that there were m
 
 * Clicking on the link gives us the flag
 
-* ![](https://imgur.com/a/pRWCNyo)
+* ![](https://i.imgur.com/bs7laJC.png)
 
 `Flag: WH2021{iSEEuHANDLEDthisWELL}`
 
