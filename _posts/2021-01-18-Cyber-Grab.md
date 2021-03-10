@@ -16,6 +16,8 @@ Members:
 
 [dbsqwerty](https://github.com/dbsqwerty)
 
+Somehow we (Team CATS SG) got second place in this CTF. 
+
 ## Misc Challenges
 
 ### Follow
