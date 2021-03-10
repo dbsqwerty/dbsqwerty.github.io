@@ -39,7 +39,7 @@ I played this CTF with [Ariana](https://ariana1729.github.io/) and [River](http:
 * He vlogs, and he has tiktok. So this means the video is on Tiktok
 * Now the next step is something i severely regret doing and till this day still gives me PTSD. Tiktok is not for everyone, consult a doctor to find out if its suitable for you. In my case, it really is not suitable. Im still suffering the trauma and stress from this Tiktok browsing experience. Pls send help to me. (DO NOT TRY THIS AT HOME KIDS) Please kids, TikTok is horrible and is not meant. Stop getting infected by the TikTok virus. Uncle Roger "HAIYAAAAAAAAAAAAAAAAAAAAA" at all the tiktok users. 
 * Anyways......... (eye cancer warning)
-* ![img](D:\CTF Markdown\2021-03-8-Whitehacks-21.assets\vB8UEXy.jpg)
+* ![](https://imgur.com/a/rm8tVYK)
 
 `Flag: WH2021{Ch0c0_L4V4_1s_b3$t}` (again, im still traumatised by this tiktok experience. send help pls)
 
@@ -60,7 +60,7 @@ I played this CTF with [Ariana](https://ariana1729.github.io/) and [River](http:
 
 * As such our final location is The Bencoolen
 
-  ![img](D:\CTF Markdown\2021-03-8-Whitehacks-21.assets\YRqYJeC.jpg)
+  ![](https://imgur.com/a/XJOX8hI)
 
 `Flag: WH2021{189646}`
 
@@ -225,7 +225,7 @@ Lets take a step back and look at what we have so far. We know that there were m
 
 * Clicking on the link gives us the flag
 
-* ![img](D:\CTF Markdown\2021-03-8-Whitehacks-21.assets\bs7laJC.png)
+* ![](https://imgur.com/a/pRWCNyo)
 
 `Flag: WH2021{iSEEuHANDLEDthisWELL}`
 
@@ -273,7 +273,7 @@ Lets take a step back and look at what we have so far. We know that there were m
 
 ## Sponsor Flags
 
-This is arguably the hardest challenge of the entire Whitehacks competition. Being an introvert with a fear of public speaking and social interaction, this challenge/challenges really pushed me to my limits. To get the flag, one supposedly merely has to talk with sponsors and do some trivial task such as filling up forms etc to obtain a flag. Yet due to my fear of public speaking, it took me lots of courage to even join the voice channel. After much "ughhs" and awkward silence, I somehow managed to extract the flags out of the sponsors, allowing my team to gain an unfair 1200 points bonus. 
+This is arguably the hardest challenge of the entire Whitehacks competition. Being an introvert with a fear of public speaking and social interaction, this challenge/challenges really pushed me to my limits. To get the flag, one supposedly merely has to talk with sponsors and do some trivial task such as filling up forms etc to obtain a flag. Yet due to my fear of public speaking, it took me lots of courage to even join the voice channel. After much "ughhs" and awkward silence, I somehow managed to extract the flags out of the sponsors, allowing my team to gain an ~~unfair~~ 1200 points bonus. 
 
 ## Remarks
 
