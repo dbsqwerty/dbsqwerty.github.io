@@ -1,13 +1,10 @@
-```
 ---
 layout: post
-title:  "The Cyber Grab CTF 0x2"
+title:  "Cyber Grab CTF 2"
 date:   2021-01-18
 categories: writeups
 ---
-```
 
-# Cyber Grab CTF writeups (Team CATS SG)
 
 Members:
 
