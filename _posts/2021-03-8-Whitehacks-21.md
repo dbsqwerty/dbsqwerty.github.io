@@ -102,16 +102,15 @@ An attacker is in our system and has left a note behind. Can you find the link i
 
   * Process Scan
 
+
     ```
     sean@ubuntu:~/Desktop/volatility$ ./vol.py -f ../../memdump.mem --profile=Win7SP1x64 pstree
     Volatility Foundation Volatility Framework 2.6.1
     Name                                                  Pid   PPid   Thds   Hnds Time
     -------------------------------------------------- ------ ------ ------ ------ ----
      0xfffffa80039f0060:wininit.exe                       420    348      3     78 2021-02-20 13:20:56 UTC+0000
-    	
-    	... ... 
-    	
-     0xfffffa8005506810:explorer.exe                     2332   2288     30    912 2021-02-20 13:21:03 UTC+0000
+    	    	... ... 
+    	0xfffffa8005506810:explorer.exe                     2332   2288     30    912 2021-02-20 13:21:03 UTC+0000
     . 0xfffffa8002990920:notepad.exe                     3800   2332      1     61 2021-02-20 14:17:11 UTC+0000
     . 0xfffffa8005315060:chrome.exe                      1692   2332     31    860 2021-02-20 14:17:19 UTC+0000
     .. 0xfffffa800291e630:chrome.exe                     3404   1692     13    203 2021-02-20 14:17:23 UTC+0000
@@ -129,7 +128,9 @@ An attacker is in our system and has left a note behind. Can you find the link i
     . 0xfffffa8002627640:notepad.exe                     3164   2332      1     61 2021-02-20 14:17:10 UTC+0000
     ```
 
+
   * Command History
+
 
     ```
     sean@ubuntu:~/Desktop/volatility$ ./vol.py -f ../../memdump.mem --profile=Win7SP1x64 cmdline
@@ -156,6 +157,7 @@ An attacker is in our system and has left a note behind. Can you find the link i
     Command line : 
     ************************************************************************
     ```
+
 
 Lets take a step back and look at what we have so far. We know that there were many chrome tabs open as well as an interesting notepad process. It is usually common in CTF challenges for one to deal with chrome processes or notepad processes. Additionally, the command line history shows us that the challenge author created several text files which supposedly are the flag. The flag text files are also incredibly likely to contain the flag. 
 
