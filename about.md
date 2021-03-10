@@ -15,6 +15,21 @@ permalink: /about/
 
 * Maybe I'll upload stuff, maybe I won't. Who knows. Life is unpredictable. 
 
-## How are you 
+## Some Notable Achievements
 
-* Fine :)
+| **Name**             | **Team**                     | Honors                 |
+| -------------------- | ---------------------------- | ---------------------- |
+| Stack the Flags 2020 | What's CTF                   | 5th Place, JC Category |
+| NUS DSO CTF 2021     | Crappy Crypto Problems       | 11th Place             |
+| Whitehacks 2021      | Cat Cracking Crypto Problems | 1st Place              |
+
+
+
+## CV
+
+[My CV uwu](https://dbsqwerty.github.io/online-cv)
+
+
+
+
+
