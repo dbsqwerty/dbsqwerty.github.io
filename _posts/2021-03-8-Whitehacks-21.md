@@ -132,31 +132,28 @@ An attacker is in our system and has left a note behind. Can you find the link i
   * Command History
 
 
-    ´´´
+    ```
     sean@ubuntu:~/Desktop/volatility$ ./vol.py -f ../../memdump.mem --profile=Win7SP1x64 cmdline
     Volatility Foundation Volatility Framework 2.6.1    
     ... ...
-    
-    ************************************************************************
     notepad.exe pid:   3352
     Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\whitehacks\Desktop\400top.txt
-    ************************************************************************
+    
     notepad.exe pid:   3164
     Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\whitehacks\Desktop\flag.txt.txt
-    ************************************************************************
+    
     notepad.exe pid:   3800
     Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\whitehacks\Desktop\flag2.txt.txt
-    ************************************************************************
+    
     notepad.exe pid:   3380
     Command line : "C:\Windows\system32\NOTEPAD.EXE" C:\Users\whitehacks\Desktop\Untitled.txt
-    ************************************************************************
+    
     chrome.exe pid:   1692
     Command line : "C:\Program Files\Google\Chrome\Application\chrome.exe" 
-    ************************************************************************
+    
     chrome.exe pid:   2664
     Command line : 
-    ************************************************************************
-    ´´´
+    ```
 
 
 Lets take a step back and look at what we have so far. We know that there were many chrome tabs open as well as an interesting notepad process. It is usually common in CTF challenges for one to deal with chrome processes or notepad processes. Additionally, the command line history shows us that the challenge author created several text files which supposedly are the flag. The flag text files are also incredibly likely to contain the flag. 
