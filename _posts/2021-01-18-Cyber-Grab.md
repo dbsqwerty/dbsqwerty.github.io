@@ -119,7 +119,7 @@ Converting from binary to ASCII, we get the flag ``cybergrabs{quit3_g00d_w4rmup_
 We are provided with a partial credit card number, ``543******5251849``. According to Wikipedia (https://en.wikipedia.org/wiki/Payment_card_number), most credit cards use Luhn's algorithm for validation.
 
 As there are only 6 missing digits, we can brute force all of them to see which credit card numbers are valid. In addition, as we are provided the hint that the credit card number is divisible by 53451, we can reduce the total number of possible credit card numbers to 2 with the following code:
-```cpp=
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -177,7 +177,8 @@ which we can use as password to unlock the pastebin.
 
 
 Now we are presented with this. 
-```My one friend created one crypto technique in the memory of Lucid Cucumber 4. He challenge me to get the message by decoding it as you all know how bad I am bad at crypto and I know you are Born to be best crypto analyst of the era and you can decode it for me. 
+```
+My one friend created one crypto technique in the memory of Lucid Cucumber 4. He challenge me to get the message by decoding it as you all know how bad I am bad at crypto and I know you are Born to be best crypto analyst of the era and you can decode it for me. 
  
 He gave me some stuff with cipher text also may it help you :)
  

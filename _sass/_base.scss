@@ -10,9 +10,9 @@ input,
 select,
 textarea,
 button {
- font-family: inherit;
- font-size: inherit;
- line-height: inherit;
+ font-family: Helvetica;
+ font-size: Helvetica;
+ line-height: Helvetica;
 }
 
 
@@ -32,7 +32,7 @@ body {
     font-size: $body-font-size;
     line-height: 1.5;
     color: $color-body-text;
-    background-color: #fff;
+    background-color: #E8E8E8;
 }
 
 p {
