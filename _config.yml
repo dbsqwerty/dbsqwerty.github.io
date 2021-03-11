@@ -30,4 +30,5 @@ theme_color: magenta
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
