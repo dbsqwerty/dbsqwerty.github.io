@@ -23,9 +23,6 @@ permalink: /about/
 | NUS DSO CTF 2021     | Crappy Crypto Problems       | 11th Place             |
 | Whitehacks 2021      | Cat Cracking Crypto Problems | 1st Place              |
 
-## Where your CV leh
-
-[My CV uwu](https://dbsqwerty.github.io/online-cv)
 
 
 
