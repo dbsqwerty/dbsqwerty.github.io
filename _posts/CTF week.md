@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "CYS Summit CTF"
+date:   2021-06-25
+categories: writeups
+
+---
+
+
+
+This was one hectic week. 2 CTFs back to back with the added tiebreaker. Amazingly, we (me and [Ariana](https://github.com/Ariana1729)) managed to achieve first place in this CTF. 
+
+![img](https://i.imgur.com/fb9bUf7.jpg)
+
+(Yes I kind doxed myself, and tragically my camera just decided not to work, so no photo with Minister... Sad times)
+
+### Writeup?
+
+Not really. Some of the challenges in this CTF are used in certifications provided by Pentester Academy and it would be best I do not publish any writeups. Nevertheless, this is a blog post. so the show must go on. 
+
+Overall I must say this was a very different CTF from what I expected. Most CTFs that I participated tend to be more theoretical without Pentesting involved. (Pentesting = Penetration Testing) This CTF had mostly pentesting challenges with a few typical CTF Forensic challenges.
+
+* Forensics: Mostly memory dumps (Volatility) as well as a docker challenge (`docker history` and `docker export`)
+* Web Application: This was mostly a pentesting challenge where one had to find the vulnerability and then exploit them to get the flag
+* AWS Security: Interesting challenges, mostly related to insecure configuration
+* DevSecOps: This was mostly just reading the debug output and fixing the bugs in the code (mostly trivial bugs)
+* Wifi Security: `aircrack-ng`, `hydra` and `nmap` 
+* Network Recon: `nmap` 
+
+With the exception of Wifi Security 3, most of the challenges were relatively fun to solve and really helped me to revise and learn some new pentesting techniques. 
+
+### Wifi 3 oh Wifi 3, why did you do this to me
+
+Now Wifi 3 is a challenge as part of the pentester academy Badge certification, so I will not be providing much details. However this challenge was really really guessy for us. 
+
+* Guess what, there's almost literally 200+ hosts that are up, I really wonder which one has the flag. 
+* Guess what, you also have to guess a charset for `hydra` when brute forcing the SSH login. 
+
+It was also frustrating when we were stuck on this very challenge for more than 8 hours... Thankfully, with some guess work, we managed to solve this challenge when 
+
+* My Teammate was half drunk
+* It was 1am, so all that peak brain thinking
+* I was just randomly trying random IP addresses
+
+Honestly I think my teammate drinking really helped us to win this CTF as he came up with very interesting and somewhat strange ideas that served as jumping points at challenges we got stuck on. 
+
+### Feedback
+
+Its time for some feedback :D
+
+* Some challenges were re-used which allowed participants to merely copy the flag from the official writeups/video walk-thrus. While I'm personally not against re-using challenges, I believe it would be best to change the flag to something different. 
+* Some of the challenges had very ambiguous questions that made it hard for us to understand what the challenge wanted. This is especially seen in the First flag for Forensics Challenge 3.
+
+Overall however, this was a really well executed CTF by both Pentester Academy and CYS and I wouldn't mind doing such challenges again. Also this was a good preparation for the mostly pentesting-style CTF that happened the very next day... `CDDC 2021`  
