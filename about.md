@@ -22,7 +22,12 @@ permalink: /about/
 | Stack the Flags 2020 | What's CTF                   | 5th Place, JC Category |
 | NUS DSO CTF 2021     | Crappy Crypto Problems       | 11th Place             |
 | Whitehacks 2021      | Cat Cracking Crypto Problems | 1st Place              |
+| CTF.SG CTF           | Cat Cracking Crypto Problems | 2nd Place              |
+| CYS Summit CTF       | See Ess Ayy                  | 1st place, JC Category |
+| CDDC 2021            | burden_bear+                 | 1st place, JC Category |
+|                      |                              |                        |
 
 ## I WANT MORE WRITEUPS
 * Ok ok, here you go ok. [MORE WRITEUPS :DDD](https://github.com/dbsqwerty/CTF-Writeups/tree/main)
+* Maybe we'll make more writeups along the way. 
 
