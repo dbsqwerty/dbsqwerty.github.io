@@ -32,3 +32,6 @@ theme_color: magenta
 markdown: kramdown
 highlighter: rouge
 
+# Google Analytics
+google_analytics: G-TE9EFY6R96
+
